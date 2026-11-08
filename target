@@ -1,0 +1,5 @@
+hostname -I
+adresse ip 192.168.119.128
+ip neigh show
+ip -br link
+00:0c:29:eb:e6:a0
